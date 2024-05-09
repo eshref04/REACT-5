@@ -1,0 +1,9 @@
+.navbar__btn button{
+    transition: 0.3s linear;
+    
+}
+
+.navbar__btn button:hover{
+    background-color: #212529 !important;
+    color: white;
+}
